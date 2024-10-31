@@ -10,4 +10,7 @@ function div (e, f) {
     return e/f;
 }
 
+function sum (g, h) {
+    return g-h;
+}
 
