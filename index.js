@@ -6,3 +6,8 @@ function mult (c, d) {
     return c*d;
 }
 
+function div (e, f) {
+    return e/f;
+}
+
+
